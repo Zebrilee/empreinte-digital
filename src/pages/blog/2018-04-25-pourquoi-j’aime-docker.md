@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Pourquoi j’aime Docker ?
-date: 2018-04-25T00:00:00+02:00
+date: 2018-04-25T19:37:00+02:00
 description: '  '
 tags:
   - digitech
