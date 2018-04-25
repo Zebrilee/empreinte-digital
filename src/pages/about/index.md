@@ -1,19 +1,20 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Empreinte digital
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+![Empreinte digital](/img/site-background.jpg)
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Pourquoi empreinte digital?
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Empreinte digital est né de l'envie d'avoir un espace où partager toutes ces connaissances réparties un peu ça et là dans mon cerveau et de donner du sens à mes pensées.
+L'univers digital est assez implicite, il n'existe pas forcément de guide ou d'explications et c'est aussi dans ce sens que j'avais envie d'écrire des articles.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Pourquoi ce nom?
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Il y a ici une volonté de relier l'interaction que nous avons avec internet, les objets connectés (...) grâce à nos doigts : le clavier, le téléphone, le bricolage ...
+
+Le jeu de mot, quant à lui, vient du fait que nous laissons forcément des informations (plus ou moins personnelles) sur internet et au fil du temps, elles forment une empreinte.
+
+Si ce site est forcément à mon image, vous retrouverez donc mon empreinte ici. À travers une partie plus de réflexion et de questionnements sur le digital, son utilisation, ses effets. Mais aussi parce que je suis développeuse et que je parlerai de programmation, de langages, de technologies...
+
+Toute la partie de réflexion, choix des catégories, nom du site a été une belle expérience qui m'a pris plusieurs mois et pour laquelle je remercie mon ami Vineko. Il m'a aidé à donner du sens et prendre du recul pour trouver le bon équilibre.
