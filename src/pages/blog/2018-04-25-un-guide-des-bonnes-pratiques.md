@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Un guide des bonnes pratiques?
-date: 2018-04-25T17:25:10.425Z
+date: 2018-04-24T19:25:10+02:00
 description: "Internet quand on y pense c’est un peu comme l’électricité, tout le monde s’en sert mais personne ne sait vraiment comment ça fonctionne.\L"
 tags:
   - bonnes-pratiques
